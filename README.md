@@ -1,1 +1,1 @@
-# SendMail.py
+- What this python script does is send emails depending on the day of the week, this in order to implement it in a backup system with scheduled tasks, it is also integrated as a micro service for ecommerce and more applications
